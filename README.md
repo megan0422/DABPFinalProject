@@ -6,9 +6,11 @@ This is our final project for the Decision Analytics for Business and Policy cou
 
 ## Instructions for running code:
 Please run the .ipynb files in the following order: 
-1. Data Exploration and Cleaning*
-2. Socioeconomic data cleaning*
-3. Classification Models
-4. Optimization
+1. DCED data
+2. Bridge Data Exploration and Cleaning*
+3. Socioeconomic data cleaning*
+4. Socioeconomic variables by bridge condition
+5. Classification Models
+6. Optimization
 
 *These two files will output dataframes titled 'df' and 'df_norm'. These will serve as our two main dataframes to pass through the model functions.

@@ -14,3 +14,6 @@ Please run the .ipynb files in the following order:
 6. Optimization
 
 *These two files will output dataframes titled 'df' and 'df_norm'. These will serve as our two main dataframes to pass through the model functions.
+
+
+### Data Dictionary is DataDictionary.xlsx
